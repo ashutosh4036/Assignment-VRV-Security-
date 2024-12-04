@@ -7,7 +7,6 @@ Environment Variables
 API Endpoints
 Usage Example
 Project Structure
-
 <------------------------------------------------------------------------------------------------->
 
 Project Overview
